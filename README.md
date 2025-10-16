@@ -24,4 +24,4 @@ O projeto permite visualizar métricas de vendas, gerar relatórios dinâmicos e
 
 ---
 
-## 🧩 Estrutura do Projeto
+
